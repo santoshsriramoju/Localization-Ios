@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  LocalizationDemo
+
+  Created by Santosh on 28/11/18.
+  Copyright © 2018 sagarsoft. All rights reserved.
+*/
+"Click Me" = "मुझे क्लिक करें";
+
+"Localization in ios objective c" = "आईओएस उद्देश्य सी में स्थानीयकरण सी";

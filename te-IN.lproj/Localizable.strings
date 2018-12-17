@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  LocalizationDemo
+
+  Created by Santosh on 28/11/18.
+  Copyright © 2018 sagarsoft. All rights reserved.
+*/
+
+"Click Me" = "నన్ను క్లిక్ చెయ్యి";
+"Localization in ios objective c" = "IOS లక్ష్యం లో స్థానీకరణ c";
+"OK" = "అలాగే";
+"Delete" = "తొలగించండి";
+"Action sheet" = "యాక్షన్ షీట్";
+"Using the alert controller" = "హెచ్చరిక నియంత్రికను ఉపయోగించడం";
